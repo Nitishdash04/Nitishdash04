@@ -1,54 +1,57 @@
 <h1 align="center">Hi 👋, I'm Nitish Dash</h1>
-<h3 align="center">A passionate Full Stack Web Developer & UI/UX Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst | Data-Driven Thinker | Visualization Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;UI/UX+Designer+with+Figma;Love+building+real-world+projects&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+in+the+Making;Skilled+in+Python,+SQL,+Excel;Visualization+with+Power+BI+%26+Tableau;Lifelong+Learner&center=true&width=500&height=45" />
 </p>
 
 ---
 
-- 🌱 I’m currently working on **React.js, Node.js, and MongoDB**
-- 👨‍💻 All of my projects are available at:(https://github.com/Nitishdash04)
-- 🧑‍🎓 B.Tech CSE | 2025 Graduate
-- 💬 Ask me about **JavaScript (ES6+), MERN Stack, REST APIs, Figma**
+- 🎓 **B.Tech CSE | 2025 Graduate**
+- 📊 Passionate about extracting insights from data and creating impactful dashboards
+- 📚 Currently enhancing skills in **Advanced Excel, Power BI, and Machine Learning**
+- 🛠️ Love working with real-world datasets to solve business problems
+- 👨‍💻 All my projects are available at: [GitHub Portfolio](https://github.com/Nitishdash04)
+- 💬 Ask me about **Python, Pandas, SQL, Power BI, Tableau, Excel**
 - 📫 Reach me at: **dashnitish0@gmail.com**
-- ⚡ Fun fact: I like learning new tech and simplifying it for others!
+- ⚡ Fun fact: I enjoy simplifying complex data into clear visual stories!
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ Tech & Tool Stack:
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+**Languages & Querying**  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  
+![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoft-excel)
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+**Libraries & Frameworks**  
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=python)
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+**Visualization & BI Tools**  
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)  
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
 
-**Database**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+**Database Management**  
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
-**Tools**  
+**Other Tools**  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)  
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)  
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitishdash04&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitishdash04&theme=tokyonight" />
 </p>
 
 ---
@@ -57,6 +60,6 @@
 
 <p align="center">
   <a href="mailto:dashnitish0@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://https://www.linkedin.com/in/nitish-kr-dash/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/nitish-kr-dash/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
   <a href="https://github.com/Nitishdash04"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/></a>
 </p>

@@ -35,7 +35,7 @@
 
 ## 🌐 Connect With Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nitish-kr-dash/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nitish-kr-dash)  
 - 📧 dashnitish0@gmail.com  
 - 🐙 [GitHub](https://github.com/Nitishdash04)  
 

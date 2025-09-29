@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Nitish Kumar Dash  
 
-🎓 Computer Science & Engineering | 💻 Full-Stack Developer | 🤖 AI Enthusiast  
+🎓 Computer Science & Engineering | 💻 Data Analyst | 🤖 AI Enthusiast  
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Exploring **MERN stack & AI-driven applications**  
-- 🌱 Learning **Next.js, Cloud (AWS), and LangChain**  
+- 🔭 Exploring **Data Science & AI-driven applications**  
+- 🌱 Learning **PowerBI, MySQL , Scikit-learn**  
 - 👯 Looking to collaborate on **open-source projects & AI tools**  
 - 💡 Passionate about building **scalable apps & solving real-world problems**  
 - ⚡ Fun fact: I love blending **creativity + logic** in every project  
@@ -15,10 +15,9 @@
 
 ## 🛠️ Tech Stack  
 
-**Languages:** JavaScript, TypeScript, Python, SQL  
-**Frontend:** React.js, Next.js, Redux, Tailwind CSS, Vite  
-**Backend:** Node.js, Express.js, REST APIs, GraphQL  
-**Databases:** MySQL, MongoDB, PostgreSQL, Firebase, Redis  
+**Languages:**  Python, SQL  
+**data visualization:** Power BI Tableau, Excel 
+**Databases:** MySQL, MongoDB, PostgreSQL
 **Cloud & DevOps:** AWS, Docker, Git/GitHub, GitHub Actions, Linux CLI  
 **AI Tools:** OpenAI API, LangChain, Hugging Face, GitHub Copilot, Figma AI  
 **Other:** Agile (Scrum, Jira, Trello), WordPress  
